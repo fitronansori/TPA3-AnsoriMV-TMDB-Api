@@ -38,7 +38,7 @@ function showMovieData(data) {
                             <div class="card-body">
                                 <div class="d-flex justify-content-between">
                                     <b><h5>${title}</h5></b>
-                                    <h5 style="color:#138808"><b>${vote_average}</b></h5>
+                                    <h5 class = "text-primary"><b>${vote_average}</b></h5>
                                 </div>
                                 <p>${release_date}</p>
                             </div>
